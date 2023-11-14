@@ -2,7 +2,7 @@ from pathlib import Path
 import os
 
 # Specifying the list of file and folders that required
-package_name = "WineQualityPrediction1"
+package_name = "WineQualityPrediction"
 list_of_files = [
     ".github/workflows/main.yaml",
     f"src/{package_name}/__init__.py",
