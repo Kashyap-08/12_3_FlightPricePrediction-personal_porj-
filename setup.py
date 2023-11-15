@@ -22,7 +22,8 @@ def get_requirements(file_path:str):
     return requirements
 
 
-# This script is a typical steup script for python package. It reads dependency from a requirement files,
+# This script is a typical steup script to create local python package. 
+# It reads dependency from a requirement files,
 # specifies package metadata and uses setuptools to define how the package should be packaged and distributed.
 setup(
     name = 'WineQualityPrediction',
