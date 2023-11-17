@@ -26,7 +26,7 @@ def get_requirements(file_path:str):
 # It reads dependency from a requirement files,
 # specifies package metadata and uses setuptools to define how the package should be packaged and distributed.
 setup(
-    name = 'WineQualityPrediction',
+    name = 'FlightPricePrediction',
     version='0.0.1',
     author='Kashyap Kolhe',
     author_email='kpkolhe1998@gmail.com',
